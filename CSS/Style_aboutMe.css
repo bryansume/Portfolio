@@ -1,0 +1,50 @@
+#aboutMe {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 6rem 3rem;
+}
+
+.puntoInformacion {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  max-width: 1200px;
+  max-height: auto;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.textoSeccion {
+  display: flex;
+  max-width: 500px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  flex-wrap: wrap;
+}
+
+.cajaIMG img {
+  width: 500px;
+  height: auto;
+  padding: 1rem 1rem 0rem 3rem;
+}
+
+#aboutMe h3 {
+  font-size: 1.7rem;
+  letter-spacing: 1px;
+  padding-top: 7rem;
+}
+
+#imgProgramando img {
+  margin-left: 0;
+  width: 500px;
+  height: auto;
+  margin-right: 3rem;
+  padding: 1.5rem 1rem 0 0;
+}
+
+#porqueMe {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  flex-wrap: wrap;
+}

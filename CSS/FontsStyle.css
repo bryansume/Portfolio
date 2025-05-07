@@ -1,0 +1,86 @@
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+}
+
+.lista_nav li a {
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+.lista_nav li a:hover {
+  color: #80cbc4;
+}
+
+.tecnologias h3 {
+  color: #80cbc4;
+  font-size: 1.5rem;
+}
+
+.tecnologias h2 {
+  font-size: 1.9rem;
+}
+
+.presentacion h2 {
+  margin-left: 0.7rem;
+  padding: 4rem;
+  font-size: 1.7rem;
+}
+
+.texto_presentacion h3 {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.texto_presentacion p {
+  font-size: 1.2rem;
+  line-height: 1.5; /* Sirve para dar la separación entre lineas del texto*/
+}
+
+.tecnologias h3 {
+  display: flex;
+  margin-bottom: 2rem;
+}
+.tecnologias h2 {
+  display: flex;
+  margin-bottom: 4rem;
+}
+
+.tituloApp {
+  color: #800020;
+  padding-top: 1rem;
+  padding-bottom: 0 auto;
+}
+.proyectos h2 {
+  font-size: 1.9rem;
+}
+
+.proyecto p {
+  font-size: 1rem;
+  margin-top: 0.4rem;
+  text-align: left;
+}
+
+.proyectos h2 {
+  margin-bottom: 2.5rem;
+}
+
+#Contacta_conmigo {
+  margin-bottom: 5rem;
+  font-size: 1.9rem;
+  margin-left: 16rem;
+}
+
+.redes_sociales p {
+  letter-spacing: 5px;
+}
+
+.SeparadorConTexto a {
+  color: white;
+  transition: all 0.2s ease-in-out; /* Le añade un efecto mas relantizado y mas profesional */
+}
+.SeparadorConTexto a:hover {
+  color: #e63946;
+}
